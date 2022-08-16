@@ -4,7 +4,7 @@ Welcome to my repository of programming skills. Summary, i will show some implem
 
 ## Table of Contents
 
-- [Beginners](#math--stat);
+- [Beginners](https://github.com/neemiasbsilva/programming-skills/tree/main/beginner);
 - [AdHoc](#programming-skills);
 - [Strings]();
 - [Data Struct and Libraries]();
